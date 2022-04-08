@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/AndroidDicoding/ProductDetail/app/src/main/res/layout-land/activity_main.xml" value="0.2" />
+        <entry key="..\:/AndroidDicoding/ProductDetail/app/src/main/res/layout-sw600dp-land/activity_main.xml" value="0.16331994645247658" />
+        <entry key="..\:/AndroidDicoding/ProductDetail/app/src/main/res/layout-sw600dp/activity_main.xml" value="0.2" />
+        <entry key="..\:/AndroidDicoding/ProductDetail/app/src/main/res/layout-xlarge/activity_main.xml" value="0.21516754850088182" />
         <entry key="..\:/AndroidDicoding/ProductDetail/app/src/main/res/layout/activity_main.xml" value="0.264" />
       </map>
     </option>
